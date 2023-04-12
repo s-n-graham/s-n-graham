@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&multiline=true&width=435&lines=Welcome+to+my+gitHub!)](https://git.io/typing-svg)
+
 
 <!--
 **s-n-graham/s-n-graham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
